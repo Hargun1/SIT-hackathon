@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="sit1.css">
+    <title>AI tool sit page 1</title>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">luada ai</a>
+        <nav>
+            <a href="#" class="active">team</a>
+            <a href="#">hargun</a>
+            <a href="#">pratyush</a>
+            <a href="#">arijit</a>
+            <a href="#">idk name</a>
+            <a href="#">msrit</a>
+        </nav>
+    </header>
+    <section class="home">
+        <div class="home-img">
+            <img src="https://img.freepik.com/premium-photo/advanced-artificial-intelligence-robot-created-with-generative-ai_115122-4765.jpg" alt="">
+        </div>
+        <div class="home-content">
+            <h1>Hi, It's <span>luada AI</span></h1>
+            <h3 class="typing-text">I'm a <span></span></h3>
+            <p> Breaking Through the Digital Gatekeepers: Understanding AI Resume Readers</p>
+            <div class="social-icons">
+                <a href="#"><i class="linkedin"></i></a>
+                <a href="#"><i class="github"></i></a>
+                <a href="#"><i class="twitter"></i></a>
+                <a href="https://www.instagram.com/ig_hargun/"><i class="instagram"></i></a>
+            </div>
+            <a href="sit2.html" class="btn">Get Started</a>
+        </div>
+    </section>
+    </body>
+    </html>
+   
